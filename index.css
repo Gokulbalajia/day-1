@@ -1,0 +1,85 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.container{
+    margin: 20px;
+    padding: 20px;
+}
+.one{
+    background-color: black;
+    color: white;
+   padding: 20px;
+   border-radius: 5px;
+   gap: 10px;
+  
+}
+.header_btn{
+    
+    color: rgba(17, 15, 15, 0.836);
+    background: #8cac01;
+    border-radius: 10px;
+    margin-bottom: 20px;
+   
+   
+    text-decoration: none;
+    gap: 10px;
+    
+}
+.header_btn:hover{
+    background-color: #e0e1dc;
+
+   
+}
+.three,.four,.five,.six{
+    margin-top: 10px;
+    padding: 20px;
+}
+.two{
+    margin-top: 10px;
+}
+.five{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.five a{
+    color: rgb(21, 196, 249);
+    text-decoration: none;
+
+}
+li{
+    list-style: none;
+}
+.three{
+    background: #1ec7ca;
+    display: inline-block;
+    padding: 10px;
+    height: 329px;
+    border-radius: 10px;
+    vertical-align: top;
+}
+.four{
+    background: #c8f7b1;
+    display: inline-block;
+   padding: 25px;
+   height: 300px;
+   width: 1000px;
+   border-radius: 10px;
+   vertical-align: top;
+    
+}
+.form_1{
+    background-color: rgb(224, 220, 220);
+    color: rgb(24, 22, 22);
+    padding: 20px;
+   
+}
+    
